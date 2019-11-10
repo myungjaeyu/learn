@@ -11,6 +11,11 @@
 
 [@umaar](https://github.com/umaar) - Umar Hansa
 
+#### Patterns for Reusable JavaScript Components - Cory House
+> https://youtu.be/MsTARVOl1H4
+
+[@coryhouse](https://github.com/coryhouse) - Cory House
+
 ```
 
 
